@@ -1,0 +1,88 @@
+07:49:49.890 [main] INFO  testcase.RegisterTest - regtest is in progresss
+07:49:55.130 [main] INFO  testcase.RegisterTest - regtest is completed
+07:56:16.382 [main] INFO  testcase.HomeTest - regtest is in progresss
+07:56:19.129 [main] INFO  testcase.HomeTest - regtest is completed
+08:34:34.848 [main] INFO  testcase.HomeTest - regtest is in progresss
+08:34:38.594 [main] INFO  testcase.HomeTest - regtest is completed
+08:34:38.598 [main] INFO  testcase.HomeTest - regtestform is in progresss
+08:37:24.588 [main] INFO  testcase.HomeTest - regtest is in progresss
+08:37:29.610 [main] INFO  testcase.HomeTest - regtest is completed
+08:37:29.610 [main] INFO  testcase.HomeTest - regtestform is in progresss
+08:38:19.423 [main] INFO  testcase.HomeTest - regtest is in progresss
+08:38:20.528 [main] INFO  testcase.HomeTest - regtest is completed
+08:38:20.528 [main] INFO  testcase.HomeTest - regtestform is in progresss
+08:39:31.338 [main] INFO  testcase.HomeTest - regtest is in progresss
+08:39:32.428 [main] INFO  testcase.HomeTest - regtest is completed
+08:39:32.428 [main] INFO  testcase.HomeTest - regtestform is in progresss
+08:42:11.625 [main] INFO  testcase.HomeTest - regtest is in progresss
+08:42:12.498 [main] INFO  testcase.HomeTest - regtest is completed
+08:42:12.498 [main] INFO  testcase.HomeTest - regtestform is in progresss
+08:43:11.885 [main] INFO  testcase.HomeTest - regtest is in progresss
+08:43:13.122 [main] INFO  testcase.HomeTest - regtest is completed
+08:43:13.122 [main] INFO  testcase.HomeTest - regtestform is in progresss
+10:32:34.631 [main] INFO  testcase.HomeTest - regtest is in progresss
+10:32:36.132 [main] INFO  testcase.HomeTest - regtest is completed
+10:32:36.132 [main] INFO  testcase.HomeTest - regtestform is in progresss
+10:47:25.631 [main] INFO  testcase.HomeTest - regtest is in progresss
+10:47:29.195 [main] INFO  testcase.HomeTest - regtest is completed
+10:47:29.195 [main] INFO  testcase.HomeTest - regtestform is in progresss
+11:15:55.604 [main] INFO  testcase.HomeTest - regtest is in progresss
+11:16:00.157 [main] INFO  testcase.HomeTest - regtest is completed
+11:16:00.157 [main] INFO  testcase.HomeTest - regtestform is in progresss
+14:28:30.929 [main] INFO  testcase.HomeTest - regtest is in progresss
+14:28:32.502 [main] INFO  testcase.HomeTest - regtest is completed
+14:28:32.502 [main] INFO  testcase.HomeTest - regtestform is in progresss
+14:34:04.695 [main] INFO  testcase.HomeTest - regtest is in progresss
+14:34:07.694 [main] INFO  testcase.HomeTest - regtest is completed
+14:34:07.694 [main] INFO  testcase.HomeTest - regtestform is in progresss
+14:45:37.538 [main] INFO  testcase.HomeTest - regtest is in progresss
+14:45:38.333 [main] INFO  testcase.HomeTest - regtest is completed
+14:45:38.335 [main] INFO  testcase.HomeTest - regtestform is in progresss
+14:47:28.978 [main] INFO  testcase.HomeTest - regtest is in progresss
+14:47:30.968 [main] INFO  testcase.HomeTest - regtest is completed
+14:47:30.968 [main] INFO  testcase.HomeTest - regtestform is in progresss
+14:50:44.223 [main] INFO  testcase.HomeTest - regtest is in progresss
+14:50:47.424 [main] INFO  testcase.HomeTest - regtest is completed
+14:50:47.424 [main] INFO  testcase.HomeTest - regtestform is in progresss
+15:09:12.295 [main] INFO  testcase.HomeTest - regtest is in progresss
+15:12:01.849 [main] INFO  testcase.HomeTest - regtest is in progresss
+15:12:03.228 [main] INFO  testcase.HomeTest - regtest is completed
+15:12:03.228 [main] INFO  testcase.HomeTest - regtestform is in progresss
+15:12:06.204 [main] INFO  testcase.HomeTest - regtestform is in completed
+15:27:20.495 [main] INFO  testcase.HomeTest - regtest is in progresss
+15:27:22.761 [main] INFO  testcase.HomeTest - regtest is completed
+15:27:22.762 [main] INFO  testcase.HomeTest - regtestform is in progresss
+15:27:25.612 [main] INFO  testcase.HomeTest - regtestform is in completed
+08:01:58.738 [main] INFO  testcase.HomeTest - regtest is in progresss
+08:01:59.386 [main] INFO  testcase.HomeTest - regtest is completed
+08:01:59.386 [main] INFO  testcase.HomeTest - regtestform is in progresss
+08:02:01.903 [main] INFO  testcase.HomeTest - regtestform is in completed
+08:29:50.809 [main] INFO  testcase.HomeTest - regtest is in progresss
+08:29:52.865 [main] INFO  testcase.HomeTest - regtest is completed
+08:29:52.865 [main] INFO  testcase.HomeTest - regtestform is in progresss
+08:29:56.446 [main] INFO  testcase.HomeTest - regtestform is in completed
+09:18:39.660 [main] INFO  testcase.HomeTest - regtest is in progresss
+09:18:40.541 [main] INFO  testcase.HomeTest - regtest is completed
+09:18:40.541 [main] INFO  testcase.HomeTest - regtestform is in progresss
+09:18:44.105 [main] INFO  testcase.HomeTest - regtestform is in completed
+09:22:01.917 [main] INFO  testcase.HomeTest - regtest is in progresss
+09:22:03.664 [main] INFO  testcase.HomeTest - regtest is completed
+09:22:03.664 [main] INFO  testcase.HomeTest - regtestform is in progresss
+09:22:06.179 [main] INFO  testcase.HomeTest - regtestform is in completed
+13:42:41.164 [main] INFO  testcase.HomeTest - regtest is in progresss
+13:42:48.186 [main] INFO  testcase.HomeTest - regtest is completed
+13:42:48.186 [main] INFO  testcase.HomeTest - regtestform is in progresss
+13:42:52.544 [main] INFO  testcase.HomeTest - regtestform is in completed
+13:44:40.982 [main] INFO  testcase.HomeTest - regtest is in progresss
+13:44:43.059 [main] INFO  testcase.HomeTest - regtest is completed
+13:44:43.060 [main] INFO  testcase.HomeTest - regtestform is in progresss
+14:29:04.887 [main] INFO  testcase.HomeTest - regtest is in progresss
+14:29:07.435 [main] INFO  testcase.HomeTest - regtest is completed
+14:29:07.435 [main] INFO  testcase.HomeTest - regtestform is in progresss
+16:01:34.754 [main] INFO  testcase.HomeTest - regtest is in progresss
+16:01:35.624 [main] INFO  testcase.HomeTest - regtest is completed
+16:01:35.624 [main] INFO  testcase.HomeTest - regtestform is in progresss
+16:05:57.572 [main] INFO  testcase.HomeTest - regtest is in progresss
+16:05:59.729 [main] INFO  testcase.HomeTest - regtest is completed
+16:05:59.729 [main] INFO  testcase.HomeTest - regtestform is in progresss
+16:06:02.409 [main] INFO  testcase.HomeTest - regtestform is in completed
