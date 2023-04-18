@@ -27,7 +27,7 @@ public class HomeTest extends TestBase {
 	  rp.enteremail(generaterandonalphabet()+"@gmail.com");
 	  rp.entercomp("softwaretesting");
 	 // rp.clicknewsletter();
-	  rp.enterpassword("12345678");
+	  rp.enterpassword("1234567");
 	  rp.enterconfirmpassword("12345678");
 	  rp.clickregbutton();
 	 
